@@ -21,6 +21,6 @@ Instructors:
 9. [Feature importance / Model interpretation](/hw11_Model_interpretation.ipynb)
 10. [Feature Engineering](/hw12_Feature_Engineering.ipynb)
 11. [Feature engineering: NLP features](/hw13_Feature_engineering2_NLP_features.ipynb)
-12. [Intro to Neural Networks](/hw15_Neural_Networks1.ipynb)
+12. [Advanced ensembling techniques](/hw14_Ensembling_techniques.ipynb)
 13. [Deep Learning in CV 1: Convolution forward pass](/hw16_convolution.ipynb)
 14. [Deep Learning in CV 2: PyTorch](/hw17_pytorch.ipynb)
